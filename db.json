@@ -1,0 +1,699 @@
+{
+    "album": [
+      {
+        "id_album": 1,
+        "titulo": "Cristo Redentor – Brasil",
+        "descricao": "A imagem de Jesus Cristo de braços abertos no Rio de Janeiro faz jus ao título de uma das 7 Maravilhas.",
+        "localizacao": {
+        "longitude": -43.21160300323511,
+        "latitude": -22.951491161772108
+        },
+        "data": "29/11/2023",
+        "url": "https://toptransferbrasil.com.br/wp-content/uploads/2019/10/cristo-redentor-3.jpg"
+      },
+      {
+        "id_album": 2,
+        "titulo": "Machu Picchu – Peru",
+        "descricao": "Machu Picchu é uma das mais prestigiadas heranças do povo Inca, um dos mais intrigantes da história.",
+        "localizacao": {
+        "longitude": -72.49740733523734,
+        "latitude": -13.226163679195796
+        },
+        "data": "29/11/2023",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipO1RrZceFJz71iFHhTrJsM9lMZ31u0EELjhl6rL=w408-h272-k-no"
+      },
+      {
+        "id_album": 3,
+        "titulo": "Chichén Itzá – México",
+        "descricao": "Legados deixados pelo maia como arquitetura, arte, matemática e atronomia.",
+        "localizacao": {
+        "longitude": -88.56777187553925,
+        "latitude": 20.68447558880018
+        },
+        "data": "29/11/2023",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipNbWPVnFdc0frA9RjMRh_7dfkPtS7u5akYKR_4R=w408-h272-k-no"
+      },
+      {
+        "id_album": 4,
+        "titulo": "Coliseu – Itália",
+        "descricao": "Símbolo do Império Romano, o Coliseu é o mais famoso anfiteatro do mundo.",
+        "localizacao": {
+        "longitude": -88.56777187553925,
+        "latitude": 12.49224162534487
+        },
+        "data": "29/11/2023",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipO0jDqEA4d2y-H9bcfOJ3NgTPhpbdFNFdwB3eZu=w408-h306-k-no",
+        "cor": "red"
+      },
+      {
+        "id_album": 5,
+        "titulo": "Ruínas de Petra – Jordânia",
+        "descricao": "Esculpida em arenito, as Ruínas de Petra, que sobreviveram aos terremotos e à corrosão natural.",
+        "localizacao": {
+        "longitude": 41.89936382775003,
+        "latitude": 12.479765140688736
+        },
+        "data": "29/11/2023",
+        "url": "https://segredosdomundo.r7.com/wp-content/uploads/2021/04/petra-historia-e-curiosidades-sobre-a-cidade-perdida-da-jordania-2.jpg"
+      },
+      {
+        "id_album": 6,
+        "titulo": "Taj Mahal – Índia",
+        "descricao": "Principal monumento da Índia, o Taj Mahal é um impressionante mausoléu.",
+        "localizacao": {
+        "longitude": 78.04218511118076,
+        "latitude": 27.175335666904726
+        },
+        "data": "29/11/2023",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipOIwFX7pMJXtOZ5zEkes4rLws69dgeTYas5C1p4=w408-h265-k-no"
+      },
+      {
+        "id_album": 7,
+        "titulo": "Muralha da China – China",
+        "descricao": "Construída em várias dinastias, a Grande Muralha da China começou a ser feita em 220 a.C.",
+        "localizacao": {
+        "longitude": 116.57040706260003,
+        "latitude": 40.43199742973407
+        },
+        "data": "29/11/2023",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipN6ygQQgKzC8B8wXHgME4HK2GeNG8pfH5KWVqHR=w408-h272-k-no"
+      },
+      {
+        "id_album": 8,
+        "titulo": "Wave - Estados Unidos",
+        "descricao": "Na fronteira do estado de Utah, Wave é conhecido com um dos destinos mais cênicos do mundo.",
+        "localizacao": {
+        "longitude": -112.006323576757,
+        "latitude": 36.9961625318105
+        },
+        "data": "29/11/2023",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipNzgDrQrLE96y3crW9BkiXQx9dtVjfSGf86yHWB=w408-h272-k-no"
+      }
+    ],
+  
+    "fotos": [
+      {
+        "id_foto": 1,
+        "url_imagem": "https://media.staticontent.com/media/pictures/87a604a2-a546-4a7d-9cb0-4496b40a7f15/300x200",
+        "descricao_imagem": "Arraial do Cabo",
+        "id_album": 1
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://img.elo7.com.br/product/original/410DAA8/bandeira-do-rio-de-janeiro-tamanho-oficial-0-90x1-28m-rj.jpg",
+        "descricao_imagem": "Bandeira Rio de Janeiro",
+        "id_album": 1
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://rederiohoteis.com/wp-content/uploads/2017/09/2017-10-29-cristo-redentor-conheca-a-historia-dessa-maravilha-do-mundo-moderno2.jpg",
+        "descricao_imagem": "Cristo Redentor",
+        "id_album": 1
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipPzJ-sCjLu-JrjIdz4MZeIK3sQvsvKfBFphT-Db=s1360-w1360-h1020",
+        "descricao_imagem": "Arcos da Lapa",
+        "id_album": 1
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://lh3.googleusercontent.com/proxy/DkYnNDldAeBdutIYyAl2FsJ596WFL-I0SkSj14MIxyXbOPw9H0qTX9ZUclFBuD98wgHISYaLlx3wbaFlA_H5ZPSKzYfob1peSfy_SbrOZxSRB9iGYEwrDhW2N0xeEnbcgkk69jedpCA5kAKbAChX1wZZ6DeXQo0=s1360-w1360-h1020",
+        "descricao_imagem": "Museu do amanhã",
+        "id_album": 1
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQF2WFf84zJIM64U5aFZ7YCR3JpCx9pl5B8C2jwfv_uG2-HaOlxDxwFHfwqCcZChKKe",
+        "descricao_imagem": "Praia do Arpoador",
+        "id_album": 1
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/3b/fe/d5/parque-lage.jpg?w=1200&h=-1&s=1",
+        "descricao_imagem": "Parque Lage",
+        "id_album": 1
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://cdn.getyourguide.com/img/tour/63bf48d3d663c.jpeg/148.jpg",
+        "descricao_imagem": "Carnaval",
+        "id_album": 1
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipMQZJd4u1anjIk4WmA3QtuD6LXRa0bG7710NzU1=s1360-w1360-h1020",
+        "descricao_imagem": "Escadaria Selarón",
+        "id_album": 1
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipNE5Nm3QBxB9x7ckyG5capuadvc0w5yzdnSdeYz=s1360-w1360-h1020",
+        "descricao_imagem": "Bondinho Rio de Janeiro",
+        "id_album": 1
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipNQRF0xWWs_mKw_z0EMwXVRyo2AOduJg_G2Cc21=s1360-w1360-h1020",
+        "descricao_imagem": "Mirante Rocinha",
+        "id_album": 1
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipPJLE6YL9rZDcFvZiwwrkJ5Xjql8Q39TvaH6OE7=s1360-w1360-h1020",
+        "descricao_imagem": "Parque Nacional da Tijuca",
+        "id_album": 1
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTu3Z27CfWpCn2x6WgBnVwiF4XIRzqsa70lEk_iYI8v0xoSrmi_v_MQ1K5N6w4zpe3bLBVrNv_3Rx4MwgHsq0vsQiwjhvG4SFuVZvoD3g",
+        "descricao_imagem": "Cidade de Cusco",
+        "id_album": 2
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://static.historiadomundo.com.br/2023/11/1-ruinas-machu-picchu.jpg",
+        "descricao_imagem": "Ruínas",
+        "id_album": 2
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://static.historiadomundo.com.br/2023/11/1-construcoes-machu-picchu.jpg",
+        "descricao_imagem": "construções da cidade",
+        "id_album": 2
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://machupicchubrasil.com.br/blog/wp-content/uploads/2020/01/Plaza-Manco-Capac.png",
+        "descricao_imagem": "Plaza Manco",
+        "id_album": 2
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lake_Titicaca_on_the_Andes_from_Bolivia.jpg/375px-Lake_Titicaca_on_the_Andes_from_Bolivia.jpg",
+        "descricao_imagem": "Lago Titicaca",
+        "id_album": 2
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://machupicchubrasil.com.br/blog/wp-content/uploads/2019/02/Montanha-colorida-peru3.jpg",
+        "descricao_imagem": "Montanha Colorida do Peru",
+        "id_album": 2
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://www.viajenaviagem.com/wp-content/uploads/2016/04/trem-machu-picchu-inkarail2.jpg.webp",
+        "descricao_imagem": "Verdes Andes",
+        "id_album": 2
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://www.peru.travel/Contenido/Atractivo/Imagen/pt/272/1.1/AcercaDe/_YLV4202.jpg",
+        "descricao_imagem": "Torreão do templo do sol",
+        "id_album": 2
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://www.peru.travel/Contenido/Atractivo/Imagen/pt/272/0/AtractivoSection/historia-de-machupichu.jpg",
+        "descricao_imagem": "ordem do Inca Pachacútec",
+        "id_album": 2
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://i.natgeofe.com/n/819ea774-aa80-435e-af5a-ae56efee7ce3/92491.jpg?w=1084.125&h=813.75",
+        "descricao_imagem": "Cidade",
+        "id_album": 2
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://imachupicchu.com/wp-content/uploads/intihuatana-machu-picchu.jpg",
+        "descricao_imagem": "Intihuatana Stone",
+        "id_album": 2
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://caminoincamachupicchu.org/cmingutd/wp-content/uploads/2021/12/wnaywayna-camino-inca.jpg",
+        "descricao_imagem": "Trilha Inca",
+        "id_album": 2
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/293008064e49431155do-copia.jpg?w=1900&h=1425",
+        "descricao_imagem": "Altar do jaguar vermelho",
+        "id_album": 3
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic1315669-copia.webp?w=380&h=570",
+        "descricao_imagem": "Pilar de pedra",
+        "id_album": 3
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipNp-H8xeIWUdDCLLyHMjv3vWYGJlMse4pVYmBOx=s1360-w1360-h1020",
+        "descricao_imagem": "El Castillo",
+        "id_album": 3
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://thumbs.dreamstime.com/z/escadaria-principal-da-serpente-na-pir%C3%A2mide-de-el-castillo-chichen-itza-mexi-44930687.jpg",
+        "descricao_imagem": "Serpente na escadaria de El Castillo",
+        "id_album": 3
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chichen_Itza_1.jpg/1500px-Chichen_Itza_1.jpg",
+        "descricao_imagem": "Templo dos guerreiros",
+        "id_album": 3
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://imgmd.net/images/c_limit%2Cw_800/v1/guia/1563450/chichen-itza.jpg",
+        "descricao_imagem": "Muros",
+        "id_album": 3
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chichen-Itza-1000-Warriors-Columns.jpg/330px-Chichen-Itza-1000-Warriors-Columns.jpg",
+        "descricao_imagem": "Colunas dos Tempos",
+        "id_album": 3
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chichen_Itza_Observatory_2_1.jpg/330px-Chichen_Itza_Observatory_2_1.jpg",
+        "descricao_imagem": "Templo observatório El Caracol",
+        "id_album": 3
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chichen_itza_la_iglesia.jpg",
+        "descricao_imagem": "La Iglesia",
+        "id_album": 3
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://www.solosophie.com/wp-content/uploads/2023/02/Chichen-Itza_2122199747.jpeg",
+        "descricao_imagem": "Vista de cima",
+        "id_album": 3
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWSbCn57Ar14PkSWkY7OBVjRV4hG5SvWkhmHnbjJj1g&s",
+        "descricao_imagem": "Chac Mool",
+        "id_album": 3
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://denomades.s3.us-west-2.amazonaws.com/blog/wp-content/uploads/2020/05/16180231/chichen-turistas.jpg",
+        "descricao_imagem": "Turistas",
+        "id_album": 3
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Panoramic_photograph_of_interior_of_Colosseum.jpg/900px-Panoramic_photograph_of_interior_of_Colosseum.jpg",
+        "descricao_imagem": "Interior Coliseu",
+        "id_album": 4
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://cdn-imgix.headout.com/microbrands-content-image/image/65fbb3d2e8a3240c070161b2107fd5be-Colosseum%20night%20tours%20arena.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
+        "descricao_imagem": "Maior anfiteatro do mundo",
+        "id_album": 4
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://cdn-imgix.headout.com/microbrands-content-image/image/0d1145a8d912f04618d8e78c691fb30b-1.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
+        "descricao_imagem": "100.000 pessoas foram empregadas",
+        "id_album": 4
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://cdn-imgix.headout.com/microbrands-content-image/image/c4d339a8d31c7d42c516a2e9c9e73ab7-4.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
+        "descricao_imagem": "Contém passagens subterrâneas",
+        "id_album": 4
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://cdn-imgix.headout.com/microbrands-content-image/image/2b301cf1bdea80ddc29a614a79435dab-AdobeStock_17819086.jpeg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
+        "descricao_imagem": "competições aconteciam por 100 dias",
+        "id_album": 4
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://cdn-imgix.headout.com/microbrands-content-image/image/a29c609751b769b24a7c4ff14d12559f-5.jpg?auto=format&w=468.29999999999995&h=267.59999999999997&q=90&fit=crop&ar=7%3A4",
+        "descricao_imagem": "Pedras de travertino foram usadas na construção",
+        "id_album": 4
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://cdn-imgix.headout.com/microbrands-content-image/image/a16491677e9f938b61f434338b78d7b1-10050-rome-vip-access-tickets--vatican-museums---colosseum-with-arena-floor-03.jpg?auto=format&w=468.29999999999995&h=267.59999999999997&q=90&fit=crop&ar=7%3A4",
+        "descricao_imagem": "Construído por Vesúvio e Tito",
+        "id_album": 4
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://s2-g1.glbimg.com/Po9Vd8PXFcsmHcvHaUYQfLa9egw=/0x0:1024x682/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/I/c/qONxAzQaiE67c3piwFAw/000-1sn85h.jpg",
+        "descricao_imagem": "Grátis para todos",
+        "id_album": 4
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://cdn.getyourguide.com/img/tour/5a6d432730b16fc2.jpeg/132.webp",
+        "descricao_imagem": "Várias excursões",
+        "id_album": 4
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://s2.glbimg.com/9ZlwxFKHG8Ev58Y6NXffr_kvQz0=/620x350/e.glbimg.com/og/ed/f/original/2020/01/25/colosseum-italy-1797161.jpg",
+        "descricao_imagem": "Sua altura é de 45 metros",
+        "id_album": 4
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://s2.glbimg.com/SDDYAJv5NZBu1ZYPbPufpRczifQ=/620x413/smart/e.glbimg.com/og/ed/f/original/2021/06/30/gettyimages-1325402839.jpg",
+        "descricao_imagem": "Subsolo",
+        "id_album": 4
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://static.historiadomundo.com.br/2022/10/visita-coliseu-roma.jpg",
+        "descricao_imagem": "Coliseu na atualidade",
+        "id_album": 4
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://www.submarinoviagens.com.br/bora-nessa-trip/wp-content/uploads/2019/10/shutterstock_1030695895.jpg",
+        "descricao_imagem": "Totalmente esculpita em arenito",
+        "id_album": 5
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://www.submarinoviagens.com.br/bora-nessa-trip/wp-content/uploads/2019/10/shutterstock_217719625.jpg",
+        "descricao_imagem": "Caminhada em meio as montanhas de arenito",
+        "id_album": 5
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://www.submarinoviagens.com.br/bora-nessa-trip/wp-content/uploads/2019/10/shutterstock_506206813.jpg",
+        "descricao_imagem": "Teve partes destruídas por terremotos",
+        "id_album": 5
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://blog.archtrends.com/wp-content/uploads/2023/01/Petra-1-1536x1024.jpeg",
+        "descricao_imagem": "As ruínas foram descobertas por Johann Ludwig Burckhardt",
+        "id_album": 5
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://blog.archtrends.com/wp-content/uploads/2023/01/Petra-2-1536x1152.jpeg",
+        "descricao_imagem": "Viviam os Nabateus habitavam essa região",
+        "id_album": 5
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://blog.archtrends.com/wp-content/uploads/2023/01/Petra-4-1536x1024.jpeg",
+        "descricao_imagem": "Os Nabateus revestiam com um acabamento para nivelar, impermeabilizar",
+        "id_album": 5
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://a.travel-assets.com/findyours-php/viewfinder/images/res40/294000/294655-Siq.jpg",
+        "descricao_imagem": "O cânion Siq conecta o museu ao monastério",
+        "id_album": 5
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://blog.archtrends.com/wp-content/uploads/2023/01/Petra-7-1536x1152.jpeg",
+        "descricao_imagem": "Entadercer",
+        "id_album": 5
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://blog.archtrends.com/wp-content/uploads/2023/01/Petra-8-1536x1152.jpeg",
+        "descricao_imagem": "Trilha alternativa que Alexandre Disaro explorou em Petra",
+        "id_album": 5
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://1.bp.blogspot.com/-JM-kJ1Yo2DU/Xw3B8S26T0I/AAAAAAAA-pQ/xgBs5RMBuvsDbSR3j7vKqA2ha5sP3Z5IwCLcBGAsYHQ/w1200-h630-p-k-no-nu/petra%2B9.jpg",
+        "descricao_imagem": "Foi descoberta em 1812",
+        "id_album": 5
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://www.escolhaviajar.com/wp-content/uploads/2016/05/P4203518a.jpg",
+        "descricao_imagem": "Colunas em Petra",
+        "id_album": 5
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://www.escolhaviajar.com/wp-content/uploads/2016/05/DSCN3176a.jpg",
+        "descricao_imagem": "Existem tumbas em Petra",
+        "id_album": 5
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/taj-mahal-garden-2-cke.jpg",
+        "descricao_imagem": "O jardim simboliza o paraíso",
+        "id_album": 6
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/entradatajmahal-cke.jpg",
+        "descricao_imagem": "Os monumentos fúnebres fossem construídos em pedra vermelha",
+        "id_album": 6
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/minaretetajmahal-cke.jpg",
+        "descricao_imagem": "O mausoléu é rodeado por quatro minaretes",
+        "id_album": 6
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/reflexotjml-cke.jpg",
+        "descricao_imagem": "O reflexo do mausoléu provoca a ilusão de ótica",
+        "id_album": 6
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/the-main-dome-of-taj-mahal-cke.jpg",
+        "descricao_imagem": "A cúpula é trabalhada, com flores de lótus esculpidas, e contém fios de ouro",
+        "id_album": 6
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/calligraphytjm.jpg",
+        "descricao_imagem": "As colunas, a cúpula e as arcadas contêm vários elementos decorativos de destaque",
+        "id_album": 6
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://cdn.culturagenial.com/imagens/taj-mahal-710190-960-720-cke.jpg",
+        "descricao_imagem": "O trabalho meticuloso de incrustação faz com que as pequenas pedras não sejam visíveis a olho nu",
+        "id_album": 6
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://atesegunda.files.wordpress.com/2015/05/dia21g.jpg",
+        "descricao_imagem": "O imperador mandou cortar as mãos dos artesãos para impedir que fizessem outra obra tão bela",
+        "id_album": 6
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/11/vista-do-taj-mahal.jpg",
+        "descricao_imagem": "O Taj Mahal parece mudar de cor, dependendo da hora do dia",
+        "id_album": 6
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://img.freepik.com/fotos-premium/uma-vista-do-taj-mahal-de-dentro-de-um-edificio_931576-3134.jpg?w=2000",
+        "descricao_imagem": "Há uma estimativa que, em média, 70 mil visitantes passavam pelo Taj Mahal",
+        "id_album": 6
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://bertoncinipelomundo.files.wordpress.com/2020/02/01-4.jpg?w=640",
+        "descricao_imagem": "As quatro faces do mausoléu são idênticas",
+        "id_album": 6
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://static.todamateria.com.br/upload/tu/mu/tumulostajmahal.jpg?auto_optimize=low",
+        "descricao_imagem": "Estão localizados os cenotáfios do imperador e da esposa preferida",
+        "id_album": 6
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://www.qualviagem.com.br/wp-content/uploads/2015/03/muralha-da-china.jpg",
+        "descricao_imagem": "Começou a ser construída entre  220 e 206 a.C. 215 a.C",
+        "id_album": 7
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2018/07/muralha-13.jpg.webp",
+        "descricao_imagem": "É possível subir em uma espécie de terraço em algumas dessas torres",
+        "id_album": 7
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2018/07/muralha-04.jpg.webp",
+        "descricao_imagem": "A muralha está equipada com dois teleféricos e um tobogã",
+        "id_album": 7
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2018/07/muralha-12.jpg.webp",
+        "descricao_imagem": "Algumas partes de Mutianyu são bem íngremes",
+        "id_album": 7
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2017/12/muralha-da-china-02.jpg.webp",
+        "descricao_imagem": "São 573 quilômetros de história",
+        "id_album": 7
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2018/07/muralha-08.jpg.webp",
+        "descricao_imagem": "A Unesco reconhece como patrimônio Mundial da Humanidade",
+        "id_album": 7
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://f.i.uol.com.br/fotografia/2013/04/23/268354-970x600-1.jpeg",
+        "descricao_imagem": "É um dos monumentos mais visitados do mundo",
+        "id_album": 7
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/84/6b.jpg",
+        "descricao_imagem": "Imponente paisagem montanhosa de Mutianyu",
+        "id_album": 7
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://www.tudosobrepequim.com/f/china/pekin/galeria/thumbs/gran-muralla-china-jinshanling.jpg",
+        "descricao_imagem": "Huanghua Cheng é um trecho da muralha que está bastante desmoronado",
+        "id_album": 7
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://lh3.googleusercontent.com/p/AF1QipNLeGmR4ojxwtHZkxAi5VwHLdr3bLBqGNPPm0Zf=s1360-w1360-h1020",
+        "descricao_imagem": "O trecho entre Simatai e Jinshanling é um dos mais escarpados e complicados de percorrer",
+        "id_album": 7
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://conteudo.imguol.com.br/c/bol/fotos/ae/2017/05/08/portas-1494296147649_615x300.jpg.webp",
+        "descricao_imagem": "As principais portas da Muralha da China são as de Shanhai, Juyong e Niángzi",
+        "id_album": 7
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://conteudo.imguol.com.br/c/bol/fotos/8b/2017/05/08/torres-do-castelo-1494296162190_615x300.jpg.webp",
+        "descricao_imagem": "As torres da muralha foram construídas para servirem como depósito de alimentos",
+        "id_album": 7
+      },
+      {
+        "id_foto": 1,
+        "url_imagem": "https://www.dicasdeviagem.com/wp-content/uploads/2018/11/the-wave-agua.jpg.webp",
+        "descricao_imagem": "As águas causam um efeito de espelho impressionante",
+        "id_album": 8
+      },
+      {
+        "id_foto": 2,
+        "url_imagem": "https://www.dicasdeviagem.com/wp-content/uploads/2018/11/the-second-wave-noite.jpg.webp",
+        "descricao_imagem": "Noite estrelada",
+        "id_album": 8
+      },
+      {
+        "id_foto": 3,
+        "url_imagem": "https://dreamlandtours.net/wp-content/uploads/2020/03/Above-the-Wave-arizona.jpg",
+        "descricao_imagem": "A trilha é relativamente tranquila, no total são 10 Km ida e volta",
+        "id_album": 8
+      },
+      {
+        "id_foto": 4,
+        "url_imagem": "https://dreamlandtours.net/wp-content/uploads/2020/03/On-the-way-to-the-Wave.jpg",
+        "descricao_imagem": "Durante a trilha não existe nenhuma infraestrutura para alimentação",
+        "id_album": 8
+      },
+      {
+        "id_foto": 5,
+        "url_imagem": "https://www.paj-gps.it/wp-content/uploads/2022/10/woman-checking-the-gps-map-2022-09-16-08-03-54-utc-1-1024x782.jpg",
+        "descricao_imagem": "Utilize um GPS para se guiar durante a trilha",
+        "id_album": 8
+      },
+      {
+        "id_foto": 6,
+        "url_imagem": "https://live.staticflickr.com/65535/50382298933_8a63e95556_b.jpg",
+        "descricao_imagem": "Antes de iniciar a trilha vá até o Visitor Center para verificar novas informações",
+        "id_album": 8
+      },
+      {
+        "id_foto": 7,
+        "url_imagem": "https://www.thewave.info/CoyoteButtesNorthCode/Images/DayatTheWave/The-Boneyard-Width-240.webp",
+        "descricao_imagem": "O cemitério",
+        "id_album": 8
+      },
+      {
+        "id_foto": 8,
+        "url_imagem": "https://www.thewave.info/CoyoteButtesNorthCode/Images/DayatTheWave/Lace-Rock-at-Dawn-Width-240.webp",
+        "descricao_imagem": "Rocha rendada ao norte de The Boneyarda",
+        "id_album": 8
+      },
+      {
+        "id_foto": 9,
+        "url_imagem": "https://www.thewave.info/CoyoteButtesNorthCode/Images/DayatTheWave/The-Classic-Wave-Width-240.webp",
+        "descricao_imagem": "Melhor foto no meio da manhã",
+        "id_album": 8
+      },
+      {
+        "id_foto": 10,
+        "url_imagem": "https://www.thewave.info/CoyoteButtesNorthCode/Images/DayatTheWave/The-Second-Wave-from-above-4-Width-240.webp",
+        "descricao_imagem": "Última luz na Segunda Onda",
+        "id_album": 8
+      },
+      {
+        "id_foto": 11,
+        "url_imagem": "https://www.thewave.info/CoyoteButtesNorthCode/Images/ClassicShots/Wave-Slot-Wall-Pattern-2-Width-400.webp",
+        "descricao_imagem": "Deformação suave de sedimentos.",
+        "id_album": 8
+      },
+      {
+        "id_foto": 12,
+        "url_imagem": "https://www.thewave.info/CoyoteButtesNorthCode/Images/ClassicShots//Looking-North-Width-400.webp",
+        "descricao_imagem": "A entrada do The Wave",
+        "id_album": 8
+      }
+  
+    ],
+        "DESTAQUES": [
+            {
+                "id_destaque": 1,
+                "id_album_destaque": 1,
+                "texto_destaque": "Cristo Redentor",
+              "url":"https://toptransferbrasil.com.br/wp-content/uploads/2019/10/cristo-redentor-3.jpg"
+            },
+            {
+                "id_destaque": 2,
+                "id_album_destaque": 2,
+                "texto_destaque": "Machu Picchu",
+              "url":"https://lh5.googleusercontent.com/p/AF1QipO1RrZceFJz71iFHhTrJsM9lMZ31u0EELjhl6rL=w408-h272-k-no"
+            },
+          {
+              "id_destaque": 3,
+              "id_album_destaque": 3,
+              "texto_destaque": "Chichén Itzá",
+            "url":"https://lh5.googleusercontent.com/p/AF1QipNbWPVnFdc0frA9RjMRh_7dfkPtS7u5akYKR_4R=w408-h272-k-no"
+          },
+          {
+              "id_destaque": 4,
+              "id_album_destaque": 4,
+              "texto_destaque": "Coliseu",
+            "url":"https://lh5.googleusercontent.com/p/AF1QipO0jDqEA4d2y-H9bcfOJ3NgTPhpbdFNFdwB3eZu=w408-h306-k-no"
+          }
+        ]
+    }
